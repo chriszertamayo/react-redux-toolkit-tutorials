@@ -24,6 +24,7 @@ const usersSlice = createSlice({
     });
   },
 });
+``;
 
 export const selectAllUsers = (state) => state.users;
 
